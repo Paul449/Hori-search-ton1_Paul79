@@ -153,6 +153,36 @@ p {
     max-width: 150px;
 }
 
+.Learning{                  /**/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red; /**/
+    color: #ffffff;
+
+}
+
+.Company{                  /**/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red; /**/
+    color: #ffffff;
+
+}
+
+.Customers{             /**/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red; /**/
+    color: #ffffff;
+
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -180,6 +210,28 @@ p {
     color: #ffffff;
 }
 
+.Learning img{              /**/
+
+    position: relative;
+    left: 1000px;
+    max-height: 200px;
+}
+
+.Company img{              /**/
+
+    position: relative;
+    left: 10px;
+    max-height: 200px;
+}
+
+.Customers img{              /**/
+
+    position: relative;
+    left: 1000px;
+    max-height: 200px;
+}
+
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -190,6 +242,33 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
+}
+
+.Learning h2{              /**/
+
+    margin-bottom: 20px;
+    font-size: 36px;
+    position: relative;
+    bottom: 180px;
+
+}
+
+.Company h2{             /**/
+
+    margin-bottom: 20px;
+    font-size: 36px;
+    position: relative;
+    left: 450px;
+    bottom: 180px ;
+
+}
+
+.Customers h2{          /**/
+
+    margin-bottom: 20px;
+    font-size: 36px;
+    position: relative;
+    bottom: 180px;
 }
 
 .search-engine-optimization h2 {
@@ -212,6 +291,7 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    background-color: yellow;
 }
 
 .footer h2 {
