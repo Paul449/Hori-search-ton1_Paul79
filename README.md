@@ -33,6 +33,8 @@ N/A
 
 ## Screenshot
 
+![Screenshot 2024-06-25 094020](https://github.com/Paul449/Hori-search-ton1_Paul79/assets/81491408/1fe71c38-5a1d-45b3-be03-711966002de6)
+
 ## Deployment
 
 Deployment: https://paul449.github.io/Hori-search-ton1_Paul79/
