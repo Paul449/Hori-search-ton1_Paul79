@@ -214,47 +214,55 @@ size accordingly to the container space and giving a maximum width of 150 px*/
     background-color: red;
     color: #ffffff;
 }
-/**/
+/*targeting first article image the float-left container by using position relative to the section, moving it to the right, and assigning a maximun height
+of 200px*/
 .Learning img{              
 
     position: relative;
     left: 1000px;
     max-height: 200px;
 }
-/**/
+/*targeting second article image the float-left container by using position relative to the section, moving it to the right, and assigning a maximun height
+of 200px*/
 .Company img{              
 
     position: relative;
     left: 10px;
     max-height: 200px;
 }
-/**/
+/*targeting third article image the float-left container by using position relative to the section, moving it to the right, and assigning a maximun height
+of 200px*/
 .Customers img{              
 
     position: relative;
     left: 1000px;
     max-height: 200px;
 }
-/**/
+/*targeting fourth article image the float-left container by using position relative to the section, moving it to the right, and assigning a maximun height
+of 200px*/
 .search-engine-optimization img {
     max-height: 200px;
 }
-/**/
+/*targeting fifth article image the float-left container by using position relative to the section, moving it to the right, and assigning a maximun height
+of 200px*/
 .online-reputation-management img {
     max-height: 200px;
 }
-/**/
+/*targeting sixth article image the float-left container by using position relative to the section, moving it to the right, and assigning a maximun height
+of 200px*/
 .social-media-marketing img {
     max-height: 200px;
 }
-/**/
+/*targeting title of the first article from float-left by assigning a margin-bottom size of 2opx,font-size,relative position container,and moving it 
+a little bit to the top*/
 .Learning h2{              
     margin-bottom: 20px;
     font-size: 36px;
     position: relative;
     bottom: 180px;
 }
-/**/
+/*targeting title of the second article from float-left by assigning a margin-bottom size of 2opx,font-size,relative position container,and moving it 
+a little bit to the top*/
 .Company h2{             
     margin-bottom: 20px;
     font-size: 36px;
@@ -262,45 +270,49 @@ size accordingly to the container space and giving a maximum width of 150 px*/
     left: 350px;
     bottom: 180px ;
 }
-/**/
+/*targeting title of the third article from float-left by assigning a margin-bottom size of 2opx,font-size,relative position container,and moving it 
+a little bit to the top*/
 .Customers h2{         
     margin-bottom: 20px;
     font-size: 36px;
     position: relative;
     bottom: 180px;
 }
-/**/
+/*targeting title of the fourth article from float-left by assigning a margin-bottom size of 2opx,font-size,relative position container,and moving it 
+a little bit to the top*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/**/
+/*targeting title of the fifth article from float-left by assigning a margin-bottom size of 2opx,font-size,relative position container,and moving it 
+a little bit to the top*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/**/
+/*targeting title of the sixth article from float-left by assigning a margin-bottom size of 2opx,font-size,relative position container,and moving it 
+a little bit to the top*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/**/
+/*specific first article adjust in a relative position to the top*/
 #L{                                  
     position: relative;
     bottom: 190px;
 }
-/**/
+/*specific second article adjust in a relative position to the top*/
 #Co{                              
 position: relative;
 bottom: 190px;
 left: 350px;
 }
-/**/
+/*specific third article adjust in a relative position to the top*/
 #Cu{                               
     position: relative;
     bottom: 190px;
 }
-/**/
+/*assigning footer to the website by adjusting padding size, font-family, aligning text to be inn  the middle of the footer, and background-color of yellow*/
 footer {
     padding: 30px;
     clear: both;
@@ -308,7 +320,7 @@ footer {
     text-align: center;
     background-color: yellow;  
 }
-/**/
+/*targeting title of the footer to be set to 20 px font-size*/
 footer h2 {
     font-size: 20px;
 }
