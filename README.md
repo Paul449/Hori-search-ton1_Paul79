@@ -35,11 +35,11 @@ N/A
 
 ## Deployment
 
-Deployment:
+Deployment: https://paul449.github.io/Hori-search-ton1_Paul79/
 
 ## Repository
 
-Github Repository: 
+Github Repository: https://github.com/Paul449/Hori-search-ton1_Paul79
 
 ## License
 
