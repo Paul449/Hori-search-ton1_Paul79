@@ -5,6 +5,20 @@ Improving web accessibility to make Horison website easier to navigate and visib
 This project is about helping people promote their business using search engine optimization through Horizon platform
 which consist of making normal websites to be the most searchable by people on the internet, and Horzion is the trustfull way to orient people.
 
+## Table Of Contents
+
+    1.- Installation
+
+    2.- Usage
+
+    3.- Credits
+
+    4.- Screenshot
+
+    5.- Deployment
+
+    6.- Repository
+
 ## Installation
 
 N/A
@@ -16,6 +30,16 @@ but we will let you know other ways of usage in the future.
 ## Credits
 
 N/A
+
+## Screenshot
+
+## Deployment
+
+Deployment:
+
+## Repository
+
+Github Repository: 
 
 ## License
 
